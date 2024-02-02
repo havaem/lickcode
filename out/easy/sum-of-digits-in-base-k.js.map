@@ -1,0 +1,1 @@
+{"version":3,"file":"sum-of-digits-in-base-k.js","sourceRoot":"","sources":["../../easy/sum-of-digits-in-base-k.ts"],"names":[],"mappings":";;AAAA,SAAS,OAAO,CAAC,CAAS,EAAE,CAAS;IACpC,OAAO,CAAC;SACN,QAAQ,CAAC,CAAC,CAAC;SACX,KAAK,CAAC,EAAE,CAAC;SACT,MAAM,CAAC,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE,CAAC,GAAG,GAAG,MAAM,CAAC,GAAG,CAAC,EAAE,CAAC,CAAC,CAAC;AAC9C,CAAC"}
